@@ -1,10 +1,8 @@
-# latihan-gui-3C
-
 # Latihan/Eksplorasi GUI pada Java (AWT)
 
 Program sederhana "Form Sapaan Mahasiswa" untuk mengeksplorasi komponen GUI Java menggunakan **AWT** (`java.awt` dan `java.awt.event`).
 
-- **NIM:** F1D02510032
+- **NIM:** f1D02510032
 - **Nama:** Ade Zulfikar Rajasa
 
 ## Cara Menjalankan
