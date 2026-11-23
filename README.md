@@ -36,10 +36,10 @@ Komponen dasar yang berinteraksi langsung dengan pengguna dan tidak bisa menampu
 ## Screenshot
 
 ### Tampilan awal
-![Tampilan awal](screenshots/awal.png)
+![Tampilan awal](awal.png)
 
 ### Setelah tombol Sapa diklik
-![Hasil sapaan](screenshots/hasil.png)
+![Hasil sapaan](hasil.png)
 
 ### Peringatan saat nama kosong
-![Peringatan](screenshots/peringatan.png)
+![Peringatan](peringatan.png)
