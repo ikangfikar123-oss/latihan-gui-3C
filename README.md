@@ -1,6 +1,6 @@
-# Latihan/Eksplorasi GUI pada Java (AWT)
+# Latihan/Eksplorasi GUI pada Java
 
-Program sederhana "Form Sapaan Mahasiswa" untuk mengeksplorasi komponen GUI Java menggunakan **AWT** (`java.awt` dan `java.awt.event`).
+Program sederhana "Form Sapaan Mahasiswa" untuk mengeksplorasi komponen GUI Java.
 
 - **NIM:** F1D02510032
 - **Nama:** Ade Zulfikar Rajasa
@@ -28,7 +28,7 @@ Komponen dasar yang berinteraksi langsung dengan pengguna dan tidak bisa menampu
 - `GridLayout`: menata form dalam grid 3 baris x 2 kolom.
 - `FlowLayout`: menata tombol secara berurutan dan rata tengah.
 
-### 5. Event Listener & Event Adapter (`java.awt.event`)
+### 5. Event Listener & Event Adapter
 - `ActionListener` (interface): meng-override `actionPerformed()` untuk tombol **Sapa** dan **Reset**, serta Enter pada kolom nama.
 - `MouseAdapter` (adapter class): hanya meng-override `mouseEntered()` dan `mouseExited()` untuk efek hover pada tombol, tanpa harus mengimplementasikan semua method `MouseListener`.
 - `WindowAdapter` (adapter class): meng-override `windowClosing()` agar jendela bisa ditutup.
