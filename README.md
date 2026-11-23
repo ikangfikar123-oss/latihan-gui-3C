@@ -2,7 +2,7 @@
 
 Program sederhana "Form Sapaan Mahasiswa" untuk mengeksplorasi komponen GUI Java menggunakan **AWT** (`java.awt` dan `java.awt.event`).
 
-- **NIM:** f1D02510032
+- **NIM:** F1D02510032
 - **Nama:** Ade Zulfikar Rajasa
 
 ## Cara Menjalankan
@@ -32,3 +32,14 @@ Komponen dasar yang berinteraksi langsung dengan pengguna dan tidak bisa menampu
 - `ActionListener` (interface): meng-override `actionPerformed()` untuk tombol **Sapa** dan **Reset**, serta Enter pada kolom nama.
 - `MouseAdapter` (adapter class): hanya meng-override `mouseEntered()` dan `mouseExited()` untuk efek hover pada tombol, tanpa harus mengimplementasikan semua method `MouseListener`.
 - `WindowAdapter` (adapter class): meng-override `windowClosing()` agar jendela bisa ditutup.
+
+## Screenshot
+
+### Tampilan awal
+![Tampilan awal](screenshots/awal.png)
+
+### Setelah tombol Sapa diklik
+![Hasil sapaan](screenshots/hasil.png)
+
+### Peringatan saat nama kosong
+![Peringatan](screenshots/peringatan.png)
